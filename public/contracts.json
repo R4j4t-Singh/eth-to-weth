@@ -1,6 +1,8 @@
-{
+[
+    {
     "contractAddress": "0x33bAe0949E0Bb7df7Cd7d63E6808CFacE42EdbC2",
     "name": "Your contract name",
     "description": "your contract description",
     "code": "Link to sol file of this contract"
-}
+    }
+]
