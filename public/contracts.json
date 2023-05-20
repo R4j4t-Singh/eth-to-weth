@@ -1,8 +1,20 @@
 [
-    {
+  {
     "contractAddress": "0x33bAe0949E0Bb7df7Cd7d63E6808CFacE42EdbC2",
     "name": "Your contract name",
     "description": "your contract description",
     "code": "Link to sol file of this contract"
-    }
+  },
+  {
+    "contractAddress": "0x518E679d48F7f3CF82D51a6cB1f3CfcFbad83Aeb",
+    "name": "Your contract name",
+    "description": "your contract description",
+    "code": "Link to sol file of this contract"
+  },
+  {
+    "contractAddress": "0x71354912666ff3128C36B26834C0cDF6d23fbd30",
+    "name": "Your contract name",
+    "description": "your contract description",
+    "code": "Link to sol file of this contract"
+  }
 ]
